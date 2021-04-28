@@ -39,6 +39,7 @@
     }
   },
 
+  
   "sap.ui5": {
     "flexEnabled": false,
     "rootView": {
